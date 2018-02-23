@@ -1,8 +1,6 @@
 # Machine Learning Syllabus 2018
 
-## Overview
-
-Learning resources:
+#### Resources for more information
 
 - [ ] [Machine Learning for Software Developers](https://github.com/ZuzooVn/machine-learning-for-software-engineers#why-use-it)
 - [ ] [Crowd sourced syllabus document](https://docs.google.com/document/d/1qhjVLzwnUwrrsQLZOuVBBZ4bq_k0YkDUkFIS-YcaV4o/edit)
@@ -17,18 +15,18 @@ Learning resources:
 
 #### Required learning
 
-**Statistics**
+Statistics
 
 - [ ] Probability
 - [ ] Hypothesis Testing
 - [ ] Regression / correlation
 - [ ] Parameter Estimation
 
-**Linear Algebra**
+Linear Algebra
 
 - [ ] 
 
-**Further Learning**
+Further Learning
 
 - [ ] Graph Theory (and by extension, networks)
 - [ ] Numerical Linear Algebra
@@ -66,11 +64,11 @@ Recommended as a practical guide of how Machine Learning experts approach proble
 
 #### Courses
 
-- [Fast AI (beginner)](http://course.fast.ai/start.html)
+- [ ] [Fast AI (beginner)](http://course.fast.ai/start.html)
 
 ### Other Resources
 
 #### Datasets
 
-[UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html)
-[Kaggle Datasets](https://www.kaggle.com/datasets)
+- [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
