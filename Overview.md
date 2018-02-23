@@ -9,24 +9,22 @@
 - [ ] [A roadmap to learning Machine Learning](https://howicodestuff.github.io/machine_learning/2018/01/12/a-roadmap-to-machine-learning.html)
 - [ ] [Machine Learning Podcast](http://ocdevel.com/podcasts/machine-learning)
 
-## Major Topics
+## Mathematics
 
-### Mathematics
+### Required learning
 
-#### Required learning
-
-Statistics
+#### Statistics
 
 - [ ] Probability
 - [ ] Hypothesis Testing
 - [ ] Regression / correlation
 - [ ] Parameter Estimation
 
-Linear Algebra
+#### Linear Algebra
 
 - [ ] 
 
-Further Learning
+#### Further Learning
 
 - [ ] Graph Theory (and by extension, networks)
 - [ ] Numerical Linear Algebra
@@ -34,41 +32,41 @@ Further Learning
 - [ ] Stochastic Modelling
 - [ ] Bayesian Statistics
 
-#### Courses
+### Courses
 
 - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
 - [ ] [Linear Algebra Foundations to Frontiers](https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers)
 Also has a book available with the same name
 
-#### Books
+### Books
 
-### Machine Learning
+## Machine Learning
 
-#### Potential Projects
+### Potential Projects
 
 - [ ] Implement Linear Regression using Gradient Descent
 - [ ] Implement k-Nearest Neighbor (see my tutorial in Python)
 - [ ] Implement Naive Bayes (see my tutorial in Python)
 
-#### Books
+### Books
 
 - [Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies](https://www.amazon.co.uk/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519397869&sr=8-1)
 Recommended as a practical guide of how Machine Learning experts approach problems. Not a guide to the basics.
 
-### Deep Learning
+## Deep Learning
 
-#### Concepts
+### Concepts
 
 - [ ] Tensorflow
 - [ ] Neural networks
 
-#### Courses
+### Courses
 
 - [ ] [Fast AI (beginner)](http://course.fast.ai/start.html)
 
-### Other Resources
+## Other Resources
 
-#### Datasets
+### Datasets
 
 - [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
