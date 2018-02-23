@@ -2,7 +2,7 @@
 
 #### Resources for more information
 
-- [ ] [Machine Learning for Software Developers](https://github.com/ZuzooVn/machine-learning-for-software-engineers#why-use-it)
+- [ ] [Machine Learning for Software Developers](https://github.com/ZuzooVn/machine-learning-for-software-engineers#table-of-contents)
 - [ ] [Crowd sourced syllabus document](https://docs.google.com/document/d/1qhjVLzwnUwrrsQLZOuVBBZ4bq_k0YkDUkFIS-YcaV4o/edit)
 - [ ] [How to Learn Machine Learning](https://elitedatascience.com/learn-machine-learning)
 - [ ] [Techniques to understand Machine Learning Algorithms without the background in mathematics](https://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
@@ -22,7 +22,7 @@
 
 #### Linear Algebra
 
-- [ ] 
+- [ ] ...
 
 #### Further Learning
 
