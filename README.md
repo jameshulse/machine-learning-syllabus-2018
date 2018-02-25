@@ -47,11 +47,16 @@ Also has a book available with the same name
 - [ ] Implement Linear Regression using Gradient Descent
 - [ ] Implement k-Nearest Neighbor (see my tutorial in Python)
 - [ ] Implement Naive Bayes (see my tutorial in Python)
+- [ ] Problem solving process
 
 ### Books
 
 - [Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies](https://www.amazon.co.uk/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1519397869&sr=8-1)
 Recommended as a practical guide of how Machine Learning experts approach problems. Not a guide to the basics.
+
+### Articles
+
+- [Process for working through Machine Learning problems](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
 
 ## Deep Learning
 
