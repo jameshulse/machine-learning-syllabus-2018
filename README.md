@@ -58,6 +58,10 @@ Recommended as a practical guide of how Machine Learning experts approach proble
 
 - [Process for working through Machine Learning problems](https://machinelearningmastery.com/process-for-working-through-machine-learning-problems/)
 
+### Courses
+
+- [ ] [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning?siteID=SAyYsTvLiGQ-9lzGg8mm0JY0JgDpbBk7hw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ). *The* course to take on Machine Learning.
+
 ## Deep Learning
 
 ### Concepts
